@@ -44,4 +44,8 @@ SyntaxError: Cannot use import statement outside a module
 Node.js v19.6.0
 ```
 
+* Install TypeScript.
+```
+npm install typescript --save-dev
+```
 
