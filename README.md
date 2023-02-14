@@ -7,4 +7,9 @@ nvm use stable
 node -v > .nvmrc
 ```
 
+* Initialise npm configuration `package.json`.
+```
+npm init -y
+```
+
 
